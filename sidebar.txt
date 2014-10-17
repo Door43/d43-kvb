@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kvb:home|Door43 (kvb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kvb|d43-kvb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kvb/archive/master.zip|d43-kvb.zip]]
+
+**Recent Changes**
+{{changes>ns = kvb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kvb|Ethnologue data]]
+
